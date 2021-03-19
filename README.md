@@ -11,3 +11,9 @@ After clicking on "Enroll here" button user will land on this page. here he will
 By clicking on Update action user can edit his response and save the entry.
 
 <img src="Screenshot 2021-03-19 at 1.34.50 PM.png" alt="image3" width="800" height="350">
+
+Also user can delete his entry by clicking on delete action. 
+
+<img src="Screenshot 2021-03-19 at 1.35.02 PM.png" alt="image4" width="800" height="350">
+
+
