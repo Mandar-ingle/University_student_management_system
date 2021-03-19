@@ -16,4 +16,6 @@ Also user can delete his entry by clicking on delete action.
 
 <img src="Screenshot 2021-03-19 at 1.35.02 PM.png" alt="image4" width="800" height="350">
 
+The changes are done in database and saved. This is flow of application. 
+
 
